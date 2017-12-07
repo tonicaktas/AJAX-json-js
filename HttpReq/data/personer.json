@@ -1,0 +1,54 @@
+[
+  {
+   "name": "Jonna",
+   "inoffice": false
+  },
+  {
+   "name": "Amir",
+   "inoffice": false
+  },
+  {
+   "name": "Bamse",
+   "inoffice": true
+  },
+  {
+   "name": "Kalle",
+   "inoffice": true
+  },
+  {
+   "name": "Pippi",
+   "inoffice": true
+  },
+  {
+   "name": "Pelle",
+   "inoffice": false
+  },
+  {
+   "name": "lilla Skutt",
+   "inoffice": true
+  },
+  {
+   "name": "Musse Pigg",
+   "inoffice": true
+  },
+  {
+   "name": "Svante",
+   "inoffice": true
+  },
+  {
+   "name": "Batman",
+   "inoffice": false
+  },
+  {
+   "name": "Ironman",
+   "inoffice": true
+  },
+  {
+   "name": "Matte",
+   "inoffice": true
+  },
+  {
+   "name": "Emil",
+   "inoffice": false
+  }
+]
